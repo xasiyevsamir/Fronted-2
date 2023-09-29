@@ -1,0 +1,153 @@
+header {
+  width: 100%;
+  height: 80px;
+  background-color: #333333;
+  position: sticky;
+  top: 0px;
+}
+header p {
+  font-size: 22px;
+  color: #c0bab6;
+}
+header span {
+  color: #c0bab6;
+  font-size: 12px;
+}
+header .article1 {
+  width: 200px;
+  height: 80px;
+  margin-left: 300px;
+  padding-top: 25px;
+  float: left;
+  line-height: 14px;
+}
+header ul li {
+  font-size: 11px;
+  float: right;
+  background-color: #232323;
+  padding: 10px;
+  color: #c0bab6;
+}
+header ul {
+  width: 390px;
+  height: 80px;
+  float: right;
+  margin-right: 300px;
+  padding-top: 25px;
+}
+section {
+  width: calc(100% - 600px);
+  height: 650px;
+  margin-left: 300px;
+  padding-top: 20px;
+}
+section article {
+  width: 663.33px;
+  height: 250px;
+  margin-bottom: 15px;
+}
+section .article2 {
+  width: 214.44px;
+  height: 230px;
+  background-color: #dedede;
+  padding: 8px;
+  margin-right: 10px;
+  float: left;
+}
+.article2 .p1 {
+  font-size: 25px;
+  padding-bottom: 5px;
+  color: #989899;
+}
+section p {
+  font-size: 14px;
+  color: #989899;
+  padding-bottom: 15px;
+}
+section a {
+  text-decoration: none;
+  color: #fe9901;
+  margin-left: 100px;
+  font-size: 14px;
+}
+section article.article3 {
+  background-color: #333333;
+  width: 438.80px;
+  height: 230px;
+  float: left;
+  text-align: center;
+  font-size: 20px;
+}
+.article3 p {
+  font-size: 20px;
+  color: #f7f7f7;
+  padding-top: 115px;
+}
+#art1 {
+  width: 663.33px;
+  height: 230px;
+}
+#art1 article {
+  width: 214.44px;
+  height: 230px;
+  font-size: 14px;
+  padding-right: 5px;
+}
+#art1 article h4 {
+  margin-bottom: 10px;
+  color: #989797;
+}
+#art1 article article {
+  width: 80px;
+  height: 80px;
+  background-color: white;
+  border: 0.5px solid #928f8f;
+  padding: 5px 5px 5px 4px;
+  margin-bottom: 2px;
+  float: left;
+  margin-right: 5px;
+}
+#art1 div {
+  background-color: #333333;
+  color: white;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  padding-top: 25px;
+}
+#art1 p {
+  text-align: justify;
+  color: #9a9897;
+  font-size: 10px;
+  padding-bottom: 15px;
+}
+#art1 a{
+    margin-left: 110px;
+}
+#art2{
+    margin-right: 10px;
+    float: left;
+}
+#art3{
+    float: left;
+    
+}
+.art4{
+    width: 158.33px;
+    height: 100px;
+    background-color: #333333;
+    float: left;
+    margin-right:10px ;
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+}
+.art5{
+    width: 158.33px;
+    height: 100px;
+    float: left;
+    background-color: #333333;
+    text-align: center;
+    padding-top: 40px;
+    color: white;
+}
